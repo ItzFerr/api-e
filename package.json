@@ -50,7 +50,7 @@
 		}
 	},
 	"dependencies": {
-		"@discordjs/api-extractor-model": "workspace:^",
+		"@discordjs/api-extractor-model": "git+https://github.com/ItzFerr/api-e-model.git",
 		"@microsoft/tsdoc": "0.14.2",
 		"@microsoft/tsdoc-config": "0.16.2",
 		"@rushstack/node-core-library": "4.1.0",
